@@ -1,0 +1,38 @@
+_repo: Verse_63010
+_version: 0.0.1
+contributor:
+  commentators:
+  - agent_name: Bragdon, Claude Fayette
+    alias: Bragden, Claude
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '4128'
+    url: http://www.gutenberg.org/2009/agents/4128
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Fayette_Bragdon
+  - agent_name: Webster, Jean
+    aliases:
+    - Webster, Alice Jean Chandler
+    - McKinney, Jean Webster
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Webster
+creator:
+  author:
+    agent_name: Crapsey, Adelaide
+    gutenberg_agent_id: '52226'
+    url: http://www.gutenberg.org/2009/agents/52226
+description: ''
+gutenberg_issued: '2020-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Verse
+url: http://www.gutenberg.org/ebooks/63010
